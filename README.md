@@ -1,8 +1,17 @@
-# Website
+# Korus Docs
 
-This website is built using [Docusaurus](https://docusaurus.io/).
+## Getting Started
+
+Clone the repository
+
+```bash
+git clone git@github.com:Agencia-Korus/docs.git
+cd docs
+```
 
 ## Installation
+
+Install the dependencies
 
 ```bash
 npm install
@@ -10,9 +19,10 @@ npm install
 
 ## Local Development
 
+Start the project locally
+
 ```bash
-cd docs
 npm start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+This command starts a local development server and opens a browser window. Most changes are reflected live without needing to restart the server.
