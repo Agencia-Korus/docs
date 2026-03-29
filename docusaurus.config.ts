@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Korus',
-  tagline: 'Documentação Projeto Agência Korus',
+  tagline: 'Documentação do Projeto Agência Korus',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

@@ -20,7 +20,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/docs/Backlog/historias-de-usuarios">
+            to="/docs/docs/inicio">
             Ler a documentação
           </Link>
         </div>
@@ -37,7 +37,8 @@ export default function Home(): ReactNode {
       description="Documentação Projeto Agência Korus">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <br /><br />
+        <HomepageFeatures/>
       </main>
     </Layout>
   );
