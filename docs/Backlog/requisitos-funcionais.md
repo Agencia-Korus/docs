@@ -159,4 +159,4 @@ A Tabela 6 apresenta requisitos funcionais complementares do sistema.
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 | ------ | --------- | --------- | ---- | ----------- | --------------- |
-| 1.0 | Criação da documentação dos Requisitos Funcionais | [Gabriel Lopes](https://github.com/BrzGab) | 29/03/2026 | — | — |
+| 1.0 | Criação da documentação dos Requisitos Funcionais | [Gabriel Lopes](https://github.com/BrzGab) | 29/03/2026 | [Lucas Guimarães](https://github.com/lcsgborges) | 29/03/2026 |

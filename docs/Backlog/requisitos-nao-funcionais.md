@@ -120,5 +120,5 @@ A Tabela 6 apresenta os requisitos não funcionais relacionados à compatibilida
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 | ------ | --------- | --------- | ---- | ----------- | --------------- |
-| 1.0 | Criação da documentação dos Requisitos Não Funcionais | [Gabriel Lopes](https://github.com/BrzGab) | 29/03/2026 | — | — |
+| 1.0 | Criação da documentação dos Requisitos Não Funcionais | [Gabriel Lopes](https://github.com/BrzGab) | 29/03/2026 | [Lucas Guimarães](https://github.com/lcsgborges) | 29/03/2026 |
 
