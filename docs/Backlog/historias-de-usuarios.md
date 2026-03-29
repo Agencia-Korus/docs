@@ -45,8 +45,7 @@ A Tabela 1 apresenta todas as histórias de usuários elicitadas para o sistema 
 | US17 | Como administrador, eu quero cadastrar, editar e remover e-books, cursos e materiais digitais, para manter o catálogo de conteúdos sempre atualizado. |
 | US18 | Como administrador, eu quero visualizar, filtrar e organizar os leads captados por critérios como tipo de serviço, orçamento ou prioridade, para otimizar a triagem comercial. |
 | US19 | Como cliente, eu quero visualizar um resumo do andamento do meu projeto na plataforma, para acompanhar a evolução do trabalho contratado sem depender de contato direto com a agência. |
-| US20 | Como administrador, eu quero que o sistema ofereça suporte a uma integração futura com IA para triagem e qualificação automática de leads, para aumentar a eficiência comercial da agência conforme o sistema evolui. |
-| US21 | Como usuário do sistema, eu quero receber notificações sobre eventos importantes (novos leads, alterações em cards, prazos próximos), para me manter atualizado sem precisar consultar a plataforma constantemente. |
+| US20 | Como administrador, eu quero acessar um painel com indicadores gerais da agência, como número de leads captados, projetos ativos e tarefas concluídas, para monitorar o desempenho do negócio e tomar decisões estratégicas com base em dados. |
 
 
 ---
