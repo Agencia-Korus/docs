@@ -28,13 +28,14 @@ Considerando as histórias de usuário da Agência Korus, o protótipo cobre as 
 - **Avisos Legais:** Banner de consentimento de Cookies e as páginas de Termos de Uso e Política de Privacidade.
 
 ### 2.2. Autenticação e Conta
-- **Acesso:** Telas padrão de Login e de Cadastro (e-mail e senha).
-- **Meu Perfil:** Ajustes da conta do usuário, como foto de perfil, troca de senha e dados pessoais.
+- **Acesso:** Telas padrão de Login, de Cadastro (e-mail e senha) e o fluxo de Recuperação de Senha.
+- **Meu Perfil:** Ajustes da conta do usuário, como foto de perfil, dados pessoais, troca de senha e configuração de preferências de notificações.
 
 ### 2.3. Área Interna (Clientes e Equipe)
 - **Dashboard de Projetos:** Um resumo central para o cliente acompanhar como está o andamento do seu projeto.
 - **Gestão de Tarefas (Kanban):** Quadros no estilo Trello, organizados por etapas, para organizar os cards do dia a dia.
 - **Agenda e Produtividade:** Visão de agenda pessoal para controle de prazos e o painel de pontuação de Gamificação (XP).
+- **Desempenho e Progressão:** Perfil individual do funcionário, contendo o acompanhamento de níveis adquiridos, medalhas e histórico de performance.
 - **Mural e Notificações:** Feed central para anúncios da equipe e central de alertas (atualizações de projetos, eventos e novos leads).
 
 ### 2.4. Painel Administrativo (Admin)
@@ -64,3 +65,4 @@ Durante a implementação das telas, pedimos atenção aos seguintes pontos:
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
 |--------|-----------|-----------|------|-------------|-----------------|
 | 1.0 | Criação da documentação inicial do protótipo e adição do link oficial do Figma. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 29/03/2026 | - | - |
+| 1.1 | Alinhamento de fluxos faltantes com a documentação principal (Recuperação de senha, progressão/medalhas e notificações). | [Antigravity AI](https://github.com/google) | 29/03/2026 | - | - |
