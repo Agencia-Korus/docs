@@ -1,28 +1,28 @@
-# Korus Docs
+# Documentação do projeto Korus
 
-## Getting Started
+## Ambiente de documentação
 
-Clone the repository
+Clone este repositório:
 
 ```bash
 git clone git@github.com:Agencia-Korus/docs.git
 cd docs
 ```
 
-## Installation
+## Instalação
 
-Install the dependencies
+Instale as dependências
 
 ```bash
 npm install
 ```
 
-## Local Development
+## Desenvolvimento Local
 
-Start the project locally
+Inicie o projeto localmente
 
 ```bash
 npm start
 ```
 
-This command starts a local development server and opens a browser window. Most changes are reflected live without needing to restart the server.
+Este comando inicia um servidor de desenvolvimento local e abre uma janela do navegador. A maioria das alterações são refletidas instantaneamente, sem a necessidade de reiniciar o servidor.
