@@ -11,7 +11,8 @@ Este documento traz o design em alta fidelidade e as telas desenhadas para a emp
 ## 1. Visão Geral
 
 - **Ferramenta de Prototipação:** Figma
-- **Link do Protótipo:** [Acessar Design no Figma](https://www.figma.com/design/C9kSqRmJazGUjHXvuhK80s/Korus?node-id=243-22588&t=BCzhtpPyeWsTuGrb-0)
+- **Link do Protótipo Desktop:** [Acessar Design no Figma Desktop](https://www.figma.com/design/C9kSqRmJazGUjHXvuhK80s/Korus?node-id=243-22588&t=BCzhtpPyeWsTuGrb-0)
+- **Link do Protótipo Mobile:** [Acessar Design no Figma Mobile](https://www.figma.com/design/C9kSqRmJazGUjHXvuhK80s/Korus?node-id=268-36404&p=f&t=BCzhtpPyeWsTuGrb-0)
 
 ---
 
