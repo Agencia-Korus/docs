@@ -25,4 +25,4 @@ Inicie o projeto localmente
 npm start
 ```
 
-Este comando inicia um servidor de desenvolvimento local e abre uma janela do navegador. A maioria das alterações são refletidas instantaneamente, sem a necessidade de reiniciar o servidor.
+Este comando inicia um servidor de desenvolvimento local e abre uma janela do navegador. A maioria das alterações é refletida instantaneamente, sem a necessidade de reiniciar o servidor.
