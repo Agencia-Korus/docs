@@ -8,6 +8,15 @@ sidebar_label: Protótipo
 
 Este documento traz o design em alta fidelidade e as telas desenhadas para a empresa Korus, com o objetivo de servir como principal referência visual para a equipe de desenvolvimento.
 
+<iframe
+  style={{border: '1px solid rgba(0, 0, 0, 0.1)'}}
+  width="800"
+  height="450"
+  src="https://embed.figma.com/proto/C9kSqRmJazGUjHXvuhK80s/Korus?node-id=591-2172&p=f&t=UbZ1W5LwgTYEm9pu-0&scaling=scale-down&content-scaling=fixed&page-id=243%3A22588&starting-point-node-id=591%3A2172&embed-host=share"
+  allowFullScreen
+>
+</iframe>
+
 ## 1. Visão Geral
 
 - **Ferramenta de Prototipação:** Figma
